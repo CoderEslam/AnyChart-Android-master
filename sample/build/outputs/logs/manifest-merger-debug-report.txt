@@ -1,0 +1,328 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\53d86a7ea20d7061622c5f776f79d3fb\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [:anychart] E:\New folder (27)\AnyChart-Android-master\anychart\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-17:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\233493745a712aa20616b77360adb142\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\541ee61b4dfb6061c0b69df8138edf55\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\6a2fae6de2dfd221c25d57cc87f809c8\recyclerview-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\2e81ec66e5f4e2d9a4f781ec033a976e\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\e63dc1bfff81136394f81978e7a11cc7\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\2c722727a6fb56f6600329b28c8b11ca\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\6be8abd61a2513e9b850bdc77e6ea369\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\a45c38c996f9c756f547ef96505c7c45\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\9fd44ba21280868230e70cb131440f71\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\71ae5436722353d313309a62166fedc6\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\4f074d817beaff51a400d28c4defd729\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\4f3d63c408b65d903e824921fd08d85c\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\34906f59ebdefa6357765380203944e9\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\97e40b04c03fca601ec61a5b716bcc3a\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.2] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\fe694b8347d06040e90b881bfa489c9c\core-1.3.2\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f8ae3c8044f708139f8f6ee778675368\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f0f71943c3a0c3b76e04bdbd87f73dca\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\1ee6c701c2c3e9fb5bdf44e347df1d23\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\c2a16bcf22568d27136d3745b643887a\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\a64f5f0c175df15d7f1c1c065b98d900\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\c213786cc6d29cffb629f463ac4e42e6\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\36e620e465b617d17a92430e92ef3eff\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f023ff3c8440f7c965c56c7998b39f26\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+	package
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:3:5-34
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:1-68:12
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:7:5-66:19
+MERGED from [:anychart] E:\New folder (27)\AnyChart-Android-master\anychart\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [:anychart] E:\New folder (27)\AnyChart-Android-master\anychart\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:5-15:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\233493745a712aa20616b77360adb142\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\233493745a712aa20616b77360adb142\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.2] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\fe694b8347d06040e90b881bfa489c9c\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\fe694b8347d06040e90b881bfa489c9c\core-1.3.2\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f8ae3c8044f708139f8f6ee778675368\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f8ae3c8044f708139f8f6ee778675368\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.2] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\fe694b8347d06040e90b881bfa489c9c\core-1.3.2\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:12:9-35
+	android:label
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:10:9-41
+	android:roundIcon
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:11:9-54
+	android:icon
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:8:9-35
+	android:theme
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:13:9-40
+activity#com.anychart.sample.MainActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:14:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:18:27-74
+activity#com.anychart.sample.charts.PieChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:21:9-61
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:21:19-58
+activity#com.anychart.sample.charts.ColumnChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:22:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:22:19-61
+activity#com.anychart.sample.charts.LineChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:23:9-62
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:23:19-59
+activity#com.anychart.sample.charts.VennDiagramActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:24:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:24:19-61
+activity#com.anychart.sample.charts.HeatMapChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:25:9-65
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:25:19-62
+activity#com.anychart.sample.charts.TagCloudActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:26:9-61
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:26:19-58
+activity#com.anychart.sample.charts.WaterfallChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:27:9-67
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:27:19-64
+activity#com.anychart.sample.charts.TreeMapChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:28:9-65
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:28:19-62
+activity#com.anychart.sample.charts.CircularGaugeActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:29:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:29:19-63
+activity#com.anychart.sample.charts.ScatterChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:30:9-65
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:30:19-62
+activity#com.anychart.sample.charts.ResourceChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:31:9-33:66
+	android:configChanges
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:32:13-57
+activity#com.anychart.sample.charts.RadarChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:34:9-63
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:34:19-60
+activity#com.anychart.sample.charts.PolarChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:35:9-63
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:35:19-60
+activity#com.anychart.sample.charts.RangeChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:36:9-63
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:36:19-60
+activity#com.anychart.sample.charts.VerticalChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:37:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:37:19-63
+activity#com.anychart.sample.charts.FunnelChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:38:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:38:19-61
+activity#com.anychart.sample.charts.PertChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:39:9-62
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:39:19-59
+activity#com.anychart.sample.charts.GanttChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:40:9-63
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:40:19-60
+activity#com.anychart.sample.charts.CombinedChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:41:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:41:19-63
+activity#com.anychart.sample.charts.BubbleChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:42:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:42:19-61
+activity#com.anychart.sample.charts.ParetoChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:43:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:43:19-61
+activity#com.anychart.sample.charts.PyramidActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:44:9-60
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:44:19-57
+activity#com.anychart.sample.charts.AreaChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:45:9-62
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:45:19-59
+activity#com.anychart.sample.charts.BarChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:46:9-61
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:46:19-58
+activity#com.anychart.sample.charts.BoxChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:47:9-61
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:47:19-58
+activity#com.anychart.sample.charts.Bar3DChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:48:9-63
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:48:19-60
+activity#com.anychart.sample.charts.MosaicChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:49:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:49:19-61
+activity#com.anychart.sample.charts.MekkoChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:50:9-63
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:50:19-60
+activity#com.anychart.sample.charts.Column3DChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:51:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:51:19-63
+activity#com.anychart.sample.charts.Area3DChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:52:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:52:19-61
+activity#com.anychart.sample.charts.HiloChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:53:9-62
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:53:19-59
+activity#com.anychart.sample.charts.QuadrantChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:54:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:54:19-63
+activity#com.anychart.sample.charts.OHLCChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:55:9-62
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:55:19-59
+activity#com.anychart.sample.charts.BubbleMapActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:56:9-62
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:56:19-59
+activity#com.anychart.sample.charts.ChoroplethMapActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:57:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:57:19-63
+activity#com.anychart.sample.charts.PointMapActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:58:9-61
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:58:19-58
+activity#com.anychart.sample.charts.ConnectorMapActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:59:9-65
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:59:19-62
+activity#com.anychart.sample.charts.SunburstChartActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:60:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:60:19-63
+activity#com.anychart.sample.charts.ThermometerActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:61:9-64
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:61:19-61
+activity#com.anychart.sample.charts.LinearColorScaleActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:62:9-69
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:62:19-66
+activity#com.anychart.sample.charts.WindSpeedActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:63:9-62
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:63:19-59
+activity#com.anychart.sample.charts.WindDirectionActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:64:9-66
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:64:19-63
+activity#com.anychart.sample.charts.TwoPiesOneColumnActivity
+ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:65:9-69
+	android:name
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:65:19-66
+uses-sdk
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\53d86a7ea20d7061622c5f776f79d3fb\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\53d86a7ea20d7061622c5f776f79d3fb\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [:anychart] E:\New folder (27)\AnyChart-Android-master\anychart\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:anychart] E:\New folder (27)\AnyChart-Android-master\anychart\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\233493745a712aa20616b77360adb142\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\233493745a712aa20616b77360adb142\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\541ee61b4dfb6061c0b69df8138edf55\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\541ee61b4dfb6061c0b69df8138edf55\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\6a2fae6de2dfd221c25d57cc87f809c8\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\6a2fae6de2dfd221c25d57cc87f809c8\recyclerview-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\2e81ec66e5f4e2d9a4f781ec033a976e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\2e81ec66e5f4e2d9a4f781ec033a976e\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\e63dc1bfff81136394f81978e7a11cc7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\e63dc1bfff81136394f81978e7a11cc7\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\2c722727a6fb56f6600329b28c8b11ca\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\2c722727a6fb56f6600329b28c8b11ca\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\6be8abd61a2513e9b850bdc77e6ea369\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\6be8abd61a2513e9b850bdc77e6ea369\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\a45c38c996f9c756f547ef96505c7c45\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\a45c38c996f9c756f547ef96505c7c45\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\9fd44ba21280868230e70cb131440f71\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\9fd44ba21280868230e70cb131440f71\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\71ae5436722353d313309a62166fedc6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\71ae5436722353d313309a62166fedc6\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\4f074d817beaff51a400d28c4defd729\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\4f074d817beaff51a400d28c4defd729\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\4f3d63c408b65d903e824921fd08d85c\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\4f3d63c408b65d903e824921fd08d85c\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\34906f59ebdefa6357765380203944e9\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\34906f59ebdefa6357765380203944e9\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\97e40b04c03fca601ec61a5b716bcc3a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\97e40b04c03fca601ec61a5b716bcc3a\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\fe694b8347d06040e90b881bfa489c9c\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\fe694b8347d06040e90b881bfa489c9c\core-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f8ae3c8044f708139f8f6ee778675368\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f8ae3c8044f708139f8f6ee778675368\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f0f71943c3a0c3b76e04bdbd87f73dca\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f0f71943c3a0c3b76e04bdbd87f73dca\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\1ee6c701c2c3e9fb5bdf44e347df1d23\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\1ee6c701c2c3e9fb5bdf44e347df1d23\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\c2a16bcf22568d27136d3745b643887a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\c2a16bcf22568d27136d3745b643887a\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\a64f5f0c175df15d7f1c1c065b98d900\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\a64f5f0c175df15d7f1c1c065b98d900\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\c213786cc6d29cffb629f463ac4e42e6\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\c213786cc6d29cffb629f463ac4e42e6\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\36e620e465b617d17a92430e92ef3eff\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\36e620e465b617d17a92430e92ef3eff\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f023ff3c8440f7c965c56c7998b39f26\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\f023ff3c8440f7c965c56c7998b39f26\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+		ADDED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+		INJECTED from E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml

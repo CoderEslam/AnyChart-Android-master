@@ -1,0 +1,184 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.anychart.anychart"
+4    android:versionCode="7"
+5    android:versionName="1.4" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="30" />
+9-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:5:5-67
+11-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:5:22-64
+12
+13    <application
+13-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:7:5-66:19
+14        android:name="androidx.multidex.MultiDexApplication"
+15        android:allowBackup="true"
+15-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:8:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.2] C:\Users\eslam\.gradle\caches\transforms-2\files-2.1\fe694b8347d06040e90b881bfa489c9c\core-1.3.2\AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:9:9-43
+19        android:label="@string/app_name"
+19-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:10:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:11:9-54
+21        android:supportsRtl="true"
+21-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:12:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:13:9-40
+24        <activity android:name="com.anychart.sample.MainActivity" >
+24-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:14:9-20:20
+24-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:14:19-47
+25            <intent-filter>
+25-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:15:13-19:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:16:17-69
+26-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:16:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:18:17-77
+28-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:18:27-74
+29            </intent-filter>
+30        </activity>
+31        <activity android:name="com.anychart.sample.charts.PieChartActivity" />
+31-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:21:9-61
+31-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:21:19-58
+32        <activity android:name="com.anychart.sample.charts.ColumnChartActivity" />
+32-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:22:9-64
+32-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:22:19-61
+33        <activity android:name="com.anychart.sample.charts.LineChartActivity" />
+33-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:23:9-62
+33-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:23:19-59
+34        <activity android:name="com.anychart.sample.charts.VennDiagramActivity" />
+34-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:24:9-64
+34-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:24:19-61
+35        <activity android:name="com.anychart.sample.charts.HeatMapChartActivity" />
+35-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:25:9-65
+35-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:25:19-62
+36        <activity android:name="com.anychart.sample.charts.TagCloudActivity" />
+36-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:26:9-61
+36-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:26:19-58
+37        <activity android:name="com.anychart.sample.charts.WaterfallChartActivity" />
+37-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:27:9-67
+37-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:27:19-64
+38        <activity android:name="com.anychart.sample.charts.TreeMapChartActivity" />
+38-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:28:9-65
+38-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:28:19-62
+39        <activity android:name="com.anychart.sample.charts.CircularGaugeActivity" />
+39-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:29:9-66
+39-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:29:19-63
+40        <activity android:name="com.anychart.sample.charts.ScatterChartActivity" />
+40-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:30:9-65
+40-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:30:19-62
+41        <activity
+41-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:31:9-33:66
+42            android:name="com.anychart.sample.charts.ResourceChartActivity"
+42-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:32:13-57
+43            android:configChanges="keyboardHidden|orientation" />
+43-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:33:13-63
+44        <activity android:name="com.anychart.sample.charts.RadarChartActivity" />
+44-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:34:9-63
+44-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:34:19-60
+45        <activity android:name="com.anychart.sample.charts.PolarChartActivity" />
+45-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:35:9-63
+45-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:35:19-60
+46        <activity android:name="com.anychart.sample.charts.RangeChartActivity" />
+46-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:36:9-63
+46-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:36:19-60
+47        <activity android:name="com.anychart.sample.charts.VerticalChartActivity" />
+47-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:37:9-66
+47-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:37:19-63
+48        <activity android:name="com.anychart.sample.charts.FunnelChartActivity" />
+48-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:38:9-64
+48-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:38:19-61
+49        <activity android:name="com.anychart.sample.charts.PertChartActivity" />
+49-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:39:9-62
+49-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:39:19-59
+50        <activity android:name="com.anychart.sample.charts.GanttChartActivity" />
+50-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:40:9-63
+50-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:40:19-60
+51        <activity android:name="com.anychart.sample.charts.CombinedChartActivity" />
+51-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:41:9-66
+51-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:41:19-63
+52        <activity android:name="com.anychart.sample.charts.BubbleChartActivity" />
+52-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:42:9-64
+52-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:42:19-61
+53        <activity android:name="com.anychart.sample.charts.ParetoChartActivity" />
+53-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:43:9-64
+53-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:43:19-61
+54        <activity android:name="com.anychart.sample.charts.PyramidActivity" />
+54-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:44:9-60
+54-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:44:19-57
+55        <activity android:name="com.anychart.sample.charts.AreaChartActivity" />
+55-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:45:9-62
+55-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:45:19-59
+56        <activity android:name="com.anychart.sample.charts.BarChartActivity" />
+56-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:46:9-61
+56-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:46:19-58
+57        <activity android:name="com.anychart.sample.charts.BoxChartActivity" />
+57-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:47:9-61
+57-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:47:19-58
+58        <activity android:name="com.anychart.sample.charts.Bar3DChartActivity" />
+58-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:48:9-63
+58-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:48:19-60
+59        <activity android:name="com.anychart.sample.charts.MosaicChartActivity" />
+59-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:49:9-64
+59-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:49:19-61
+60        <activity android:name="com.anychart.sample.charts.MekkoChartActivity" />
+60-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:50:9-63
+60-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:50:19-60
+61        <activity android:name="com.anychart.sample.charts.Column3DChartActivity" />
+61-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:51:9-66
+61-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:51:19-63
+62        <activity android:name="com.anychart.sample.charts.Area3DChartActivity" />
+62-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:52:9-64
+62-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:52:19-61
+63        <activity android:name="com.anychart.sample.charts.HiloChartActivity" />
+63-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:53:9-62
+63-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:53:19-59
+64        <activity android:name="com.anychart.sample.charts.QuadrantChartActivity" />
+64-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:54:9-66
+64-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:54:19-63
+65        <activity android:name="com.anychart.sample.charts.OHLCChartActivity" />
+65-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:55:9-62
+65-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:55:19-59
+66        <activity android:name="com.anychart.sample.charts.BubbleMapActivity" />
+66-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:56:9-62
+66-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:56:19-59
+67        <activity android:name="com.anychart.sample.charts.ChoroplethMapActivity" />
+67-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:57:9-66
+67-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:57:19-63
+68        <activity android:name="com.anychart.sample.charts.PointMapActivity" />
+68-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:58:9-61
+68-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:58:19-58
+69        <activity android:name="com.anychart.sample.charts.ConnectorMapActivity" />
+69-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:59:9-65
+69-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:59:19-62
+70        <activity android:name="com.anychart.sample.charts.SunburstChartActivity" />
+70-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:60:9-66
+70-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:60:19-63
+71        <activity android:name="com.anychart.sample.charts.ThermometerActivity" />
+71-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:61:9-64
+71-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:61:19-61
+72        <activity android:name="com.anychart.sample.charts.LinearColorScaleActivity" />
+72-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:62:9-69
+72-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:62:19-66
+73        <activity android:name="com.anychart.sample.charts.WindSpeedActivity" />
+73-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:63:9-62
+73-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:63:19-59
+74        <activity android:name="com.anychart.sample.charts.WindDirectionActivity" />
+74-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:64:9-66
+74-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:64:19-63
+75        <activity android:name="com.anychart.sample.charts.TwoPiesOneColumnActivity" />
+75-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:65:9-69
+75-->E:\New folder (27)\AnyChart-Android-master\sample\src\main\AndroidManifest.xml:65:19-66
+76    </application>
+77
+78</manifest>
